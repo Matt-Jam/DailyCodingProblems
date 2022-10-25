@@ -1,0 +1,15 @@
+C:\Users\matty\OneDrive\Documents\DailyCodingProblems\p573\obj\Debug\net6.0\p573.csproj.AssemblyReference.cache
+C:\Users\matty\OneDrive\Documents\DailyCodingProblems\p573\obj\Debug\net6.0\p573.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matty\OneDrive\Documents\DailyCodingProblems\p573\obj\Debug\net6.0\p573.AssemblyInfoInputs.cache
+C:\Users\matty\OneDrive\Documents\DailyCodingProblems\p573\obj\Debug\net6.0\p573.AssemblyInfo.cs
+C:\Users\matty\OneDrive\Documents\DailyCodingProblems\p573\obj\Debug\net6.0\p573.csproj.CoreCompileInputs.cache
+C:\Users\matty\OneDrive\Documents\DailyCodingProblems\p573\bin\Debug\net6.0\p573.exe
+C:\Users\matty\OneDrive\Documents\DailyCodingProblems\p573\bin\Debug\net6.0\p573.deps.json
+C:\Users\matty\OneDrive\Documents\DailyCodingProblems\p573\bin\Debug\net6.0\p573.runtimeconfig.json
+C:\Users\matty\OneDrive\Documents\DailyCodingProblems\p573\bin\Debug\net6.0\p573.dll
+C:\Users\matty\OneDrive\Documents\DailyCodingProblems\p573\bin\Debug\net6.0\p573.pdb
+C:\Users\matty\OneDrive\Documents\DailyCodingProblems\p573\obj\Debug\net6.0\p573.dll
+C:\Users\matty\OneDrive\Documents\DailyCodingProblems\p573\obj\Debug\net6.0\refint\p573.dll
+C:\Users\matty\OneDrive\Documents\DailyCodingProblems\p573\obj\Debug\net6.0\p573.pdb
+C:\Users\matty\OneDrive\Documents\DailyCodingProblems\p573\obj\Debug\net6.0\p573.genruntimeconfig.cache
+C:\Users\matty\OneDrive\Documents\DailyCodingProblems\p573\obj\Debug\net6.0\ref\p573.dll
